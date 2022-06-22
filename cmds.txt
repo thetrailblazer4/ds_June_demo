@@ -1,0 +1,10 @@
+git init
+git status
+git add <file_name> ----> to add one file
+git add . ----> to add multiple file at once
+
+git commit -m "Message/comment"
+
+git remote add origin <git hub/repo path>
+
+git push -u origin master
